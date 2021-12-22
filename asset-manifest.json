@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/metareels/static/css/main.d850c1a7.chunk.css",
+    "main.js": "/metareels/static/js/main.d56377dd.chunk.js",
+    "main.js.map": "/metareels/static/js/main.d56377dd.chunk.js.map",
+    "runtime-main.js": "/metareels/static/js/runtime-main.fb1e5d2d.js",
+    "runtime-main.js.map": "/metareels/static/js/runtime-main.fb1e5d2d.js.map",
+    "static/css/2.80dce9aa.chunk.css": "/metareels/static/css/2.80dce9aa.chunk.css",
+    "static/js/2.e453dd40.chunk.js": "/metareels/static/js/2.e453dd40.chunk.js",
+    "static/js/2.e453dd40.chunk.js.map": "/metareels/static/js/2.e453dd40.chunk.js.map",
+    "index.html": "/metareels/index.html",
+    "precache-manifest.daf9d14457a886b35decfaccdc2bf882.js": "/metareels/precache-manifest.daf9d14457a886b35decfaccdc2bf882.js",
+    "service-worker.js": "/metareels/service-worker.js",
+    "static/css/2.80dce9aa.chunk.css.map": "/metareels/static/css/2.80dce9aa.chunk.css.map",
+    "static/css/main.d850c1a7.chunk.css.map": "/metareels/static/css/main.d850c1a7.chunk.css.map",
+    "static/js/2.e453dd40.chunk.js.LICENSE.txt": "/metareels/static/js/2.e453dd40.chunk.js.LICENSE.txt",
+    "static/media/dvideo.png": "/metareels/static/media/dvideo.9e02a88e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb1e5d2d.js",
+    "static/css/2.80dce9aa.chunk.css",
+    "static/js/2.e453dd40.chunk.js",
+    "static/css/main.d850c1a7.chunk.css",
+    "static/js/main.d56377dd.chunk.js"
+  ]
+}
