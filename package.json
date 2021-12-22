@@ -2,8 +2,8 @@
   "name": "DVideo",
   "version": "0.1.0",
   "description": "Decentralized Social Media",
-  "author": "Dapp University",
-  "homepage": ".",
+  "author": "Dapp",
+  "homepage": "https://sdubb.github.io/metareels/",
   "dependencies": {
     "@truffle/hdwallet-provider": "^1.1.0",
     "babel-polyfill": "6.26.0",
