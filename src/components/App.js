@@ -59,7 +59,7 @@ class App extends Component {
       })
       this.setState({ loading: false})
     } else {
-      window.alert('DVideo contract not deployed to detected network.')
+      window.alert('contract not deployed to detected network. please connect to Polygon Matic mumbai Test network')
     }
   }
 
